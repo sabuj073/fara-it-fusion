@@ -1,0 +1,17 @@
+image_parameters:
+  height_og: 1000
+  img_path: ../img/static_frame_from_video.jpg
+  p1:
+  - 996
+  - 555
+  p2:
+  - 5
+  - 554
+  p3:
+  - 994
+  - 6
+  p4:
+  - 3
+  - 4
+  size_frame: 1000
+  width_og: 562
